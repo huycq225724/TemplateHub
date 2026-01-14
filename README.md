@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/huycq225724/TemplateHub
 ```
-hoặc download file zip và extract
+hoặc download file ZIP (ở nút ```<code>``` và extract)
 
 2. Bên trong folder đó, mở terminal và chạy các lệnh
 ```
